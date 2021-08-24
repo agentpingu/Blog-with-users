@@ -1,4 +1,4 @@
-# Blog-with-Users
+# Flask-Blog-with-Users
 
 DESCRIPTION:<br/>
 --> This is a sample Blog website with Basic User authentication implemented along with it using Flask. <br/>
